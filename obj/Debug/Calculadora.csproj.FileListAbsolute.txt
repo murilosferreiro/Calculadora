@@ -1,0 +1,8 @@
+F:\Users\Murilo\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\Users\Murilo\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\Users\Murilo\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\Users\Murilo\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+F:\Users\Murilo\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\Users\Murilo\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\Users\Murilo\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+F:\Users\Murilo\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
